@@ -1,1 +1,2 @@
-MsgBox "omaren" & vbCrLf & "Cool",768, "By Omar Zain"
+
+whiptail --msgbox "Hello world" 10 30
